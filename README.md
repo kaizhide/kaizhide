@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShinYuan
 - 👀 I’m interested in Techno and Classical
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Microcontroller and machine learning
 - 💞️ I’m looking to collaborate on （in the direction of artificial intelligence）
 - 📫 How to reach me o9570795@gmail.com
 
